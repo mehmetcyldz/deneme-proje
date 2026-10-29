@@ -1,2 +1,3 @@
 merhaba dünyaa
 bugün github öğreniyorum
+bu satırı pcden ekledim
